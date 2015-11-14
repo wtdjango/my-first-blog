@@ -1,0 +1,33 @@
+﻿Evento: 
+https://djangogirls.org/curitiba/
+
+
+
+Para informações sobre local e horário 
+http://www.makeitbig.cc/#local
+
+
+
+Se você usa windows e puder instalar o Virtualbox 
+https://www.virtualbox.org/wiki/Downloads 
+na sua maquina será perfeito!
+
+Isto ira poupar tempo no dia!
+
+
+
+Caso não queira instalar o virtualbox e partir para uma instalação local use:
+
+
+
+Para instalação do Python siga 
+http://tutorial.djangogirls.org/pt/python_installation/index.html#instalação-do-python
+
+
+
+Para instalação do Django siga 
+http://tutorial.djangogirls.org/pt/django_installation/index.html#instalação-do-django
+
+
+
+Abraço
